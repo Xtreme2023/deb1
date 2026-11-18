@@ -59,7 +59,7 @@ Acceso a su portal personalizado: historial de paquetes propios, rastreo en vivo
 ### 3. Rediseño Visual Limpio y Elegante
 - Paleta ejecutiva moderna: fondo blanco nítido y slate suave (`#f8fafc`), acentos en Azul Marino Ejecutivo (`#0f172a`), Azul Real (`#2563eb`), Esmeralda (`#10b981`) y Ámbar (`#f59e0b`).
 - Tipografía legible de alto contraste, tarjetas refinadas con sombras suaves y estados de entrega claros.
-- Selector de tema (Modo Luminoso Ejecutivo y Modo Noche Sofisticado).
+- Selector de tema (Modo Luminoso Ejecutivo y Modo Noche Sofisticadooooo).
 
 ---
 
